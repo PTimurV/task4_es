@@ -1,0 +1,26 @@
+.user-item {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.user-info {
+	display: flex;
+	flex-direction: column;
+}
+
+.user-name {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.user-address {
+	margin-bottom: 5px;
+}
+
+.user-phone {
+	margin-bottom: 5px;
+}
